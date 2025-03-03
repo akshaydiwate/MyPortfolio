@@ -1,0 +1,3 @@
+1. In responsive mode when I open menu, and click on any one option menu should hide automatically it stays there. So for new menu-item user should click on menu icon again.
+2. You forgot to add Award section it it. Kindly add award section and make sure you make space for image, so in future i can add the image of award certificate to it. For now have the coding commented. Make it also responsive and animated.
+3. Make professional section in such a way that it's easy to read for end users also keep the same design color and animations may be you can reduce font size. It's still not responsive when I see it in mobile. Please make the whole section as responsive. Text is not fitting properly.
